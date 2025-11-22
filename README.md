@@ -1,5 +1,66 @@
-# 💫 About Me:
-I am an AI Engineer specializing in Agentic AI and Production-Grade RAG Systems. My expertise spans the full ML lifecycle from architecting complex LangChain/LangGraph workflows to deploying scalable models via Docker and GitHub Actions. As a Published Researcher in GANs, I have a proven ability to translate theoretical AI concepts into robust, real-world applications in healthcare and computer vision. I am committed to engineering high-performance intelligent systems that drive tangible business value.<br><br>🔭 I’m currently working on : Advanced Agentic AI Workflows & Multi-Modal RAG Systems.<br>🌱 I’m currently learning: Edge AI optimization and Advanced Kubernetes for ML scaling.<br>👯 I’m looking to collaborate on: Open-source Generative AI projects and innovative Healthcare AI solutions.<br>💬 Ask me about: LLMs, LangChain, RAG, Computer Vision (YOLO), and MLOps.
+Hi there, I'm Syed Anas 👋
+
+🚀 AI Engineer | Agentic AI & RAG Specialist | MLOps Enthusiast
+
+👨‍💻 About Me
+
+I am an AI Engineer specializing in Agentic AI and Production-Grade RAG Systems. My expertise spans the full ML lifecycle—from architecting complex LangChain/LangGraph workflows to deploying scalable models via Docker and GitHub Actions.
+
+As a Published Researcher in GANs, I have a proven ability to translate theoretical AI concepts into robust, real-world applications in healthcare and computer vision. I am committed to engineering high-performance intelligent systems that drive tangible business value.
+
+🔭 I’m currently working on: Advanced Agentic AI Workflows & Multi-Modal RAG Systems.
+
+🌱 I’m currently learning: Edge AI optimization and Advanced Kubernetes for ML scaling.
+
+👯 I’m looking to collaborate on: Open-source Generative AI projects and innovative Healthcare AI solutions.
+
+💬 Ask me about: LLMs, LangChain, RAG, Computer Vision (YOLO), and MLOps.
+
+🛠️ Technical Arsenal
+
+Domain
+
+Technologies
+
+🤖 AI & GenAI
+
+LangChain, LangGraph, OpenAI SDK, HuggingFace, RAG Pipelines, LLMs
+
+🧠 Deep Learning
+
+TensorFlow, Keras, CNNs, RNNs, LSTMs, GANs, Computer Vision (YOLOv11)
+
+📊 Data Science
+
+Pandas, NumPy, Scikit-learn, Power BI, Tableau, SQL, EDA
+
+⚙️ MLOps & Cloud
+
+Docker, GitHub Actions (CI/CD), AWS EC2, Render, Vercel, Pinecone
+
+💻 Development
+
+Python, Flask, HTML/CSS, JavaScript, React (Basic), Streamlit
+
+🌟 Featured Projects
+
+Context-Aware Medical RAG System
+
+Tech: LangChain, Pinecone, OpenAI, Docker, AWS
+
+Impact: Delivers source-backed medical insights from curated PDFs with real-time semantic search.
+
+UrbanFlow: Real-Time Traffic Analytics
+
+Tech: YOLOv11, BoT-SORT, OpenCV, Python
+
+Impact: Real-time vehicle counting and classification with unique ID tracking for urban planning.
+
+ReviewSense: End-to-End NLP Pipeline
+
+Tech: TensorFlow, LSTM, CI/CD, Streamlit
+
+Impact: Production-ready sentiment analysis on 50K+ reviews with automated deployment pipelines.
 
 Portfolio : https://syed-anas-portfolio.vercel.app/
 
