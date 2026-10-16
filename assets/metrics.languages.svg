@@ -7,39 +7,39 @@
   <text x="20" y="22" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">12 Languages</text>
   <text x="240" y="46" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle">Most used languages</text>
   <g clip-path="url(#bar-clip)">
-    <rect x="20.0" y="58" width="362.6" height="8" fill="#3572A5"/><rect x="382.6" y="58" width="37.4" height="8" fill="#DA5B0B"/><rect x="420.0" y="58" width="16.7" height="8" fill="#3178c6"/><rect x="436.7" y="58" width="9.2" height="8" fill="#f34b7d"/><rect x="445.9" y="58" width="6.2" height="8" fill="#e34c26"/><rect x="452.1" y="58" width="4.6" height="8" fill="#384d54"/><rect x="456.7" y="58" width="3.0" height="8" fill="#e38c00"/><rect x="459.7" y="58" width="3.0" height="8" fill="#89e051"/>
+    <rect x="20.0" y="58" width="345.0" height="8" fill="#3572A5"/><rect x="365.0" y="58" width="49.3" height="8" fill="#DA5B0B"/><rect x="414.2" y="58" width="21.1" height="8" fill="#e38c00"/><rect x="435.4" y="58" width="10.6" height="8" fill="#3178c6"/><rect x="445.9" y="58" width="6.6" height="8" fill="#f34b7d"/><rect x="452.5" y="58" width="4.4" height="8" fill="#384d54"/><rect x="456.9" y="58" width="3.0" height="8" fill="#e34c26"/><rect x="459.9" y="58" width="3.0" height="8" fill="#89e051"/>
   </g>
   
     <circle cx="24" cy="84" r="4.5" fill="#3572A5"/>
     <text x="36" y="88" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Python</text>
     <text x="169" y="88" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">6.42 MB</text>
-    <text x="222" y="88" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">82.40%</text>
+    <text x="222" y="88" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">78.40%</text>
     <circle cx="255" cy="84" r="4.5" fill="#DA5B0B"/>
     <text x="267" y="88" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Jupyter Notebook</text>
-    <text x="400" y="88" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">840 kB</text>
-    <text x="453" y="88" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">8.50%</text>
-    <circle cx="24" cy="104" r="4.5" fill="#3178c6"/>
-    <text x="36" y="108" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">TypeScript</text>
-    <text x="169" y="108" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">312 kB</text>
-    <text x="222" y="108" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">3.80%</text>
-    <circle cx="255" cy="104" r="4.5" fill="#f34b7d"/>
-    <text x="267" y="108" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">C++</text>
-    <text x="400" y="108" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">185 kB</text>
-    <text x="453" y="108" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">2.10%</text>
-    <circle cx="24" cy="124" r="4.5" fill="#e34c26"/>
-    <text x="36" y="128" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">HTML / CSS</text>
-    <text x="169" y="128" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">120 kB</text>
-    <text x="222" y="128" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">1.40%</text>
+    <text x="400" y="88" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">1.12 MB</text>
+    <text x="453" y="88" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">11.20%</text>
+    <circle cx="24" cy="104" r="4.5" fill="#e38c00"/>
+    <text x="36" y="108" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">SQL / PySpark</text>
+    <text x="169" y="108" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">420 kB</text>
+    <text x="222" y="108" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">4.80%</text>
+    <circle cx="255" cy="104" r="4.5" fill="#3178c6"/>
+    <text x="267" y="108" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">TypeScript</text>
+    <text x="400" y="108" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">210 kB</text>
+    <text x="453" y="108" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">2.40%</text>
+    <circle cx="24" cy="124" r="4.5" fill="#f34b7d"/>
+    <text x="36" y="128" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">C++</text>
+    <text x="169" y="128" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">145 kB</text>
+    <text x="222" y="128" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">1.50%</text>
     <circle cx="255" cy="124" r="4.5" fill="#384d54"/>
-    <text x="267" y="128" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Dockerfile</text>
-    <text x="400" y="128" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">84 kB</text>
-    <text x="453" y="128" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">1.05%</text>
-    <circle cx="24" cy="144" r="4.5" fill="#e38c00"/>
-    <text x="36" y="148" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">SQL</text>
-    <text x="169" y="148" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">45 kB</text>
+    <text x="267" y="128" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Dockerfile / Helm</text>
+    <text x="400" y="128" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">95 kB</text>
+    <text x="453" y="128" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">1.00%</text>
+    <circle cx="24" cy="144" r="4.5" fill="#e34c26"/>
+    <text x="36" y="148" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">HTML / CSS</text>
+    <text x="169" y="148" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">48 kB</text>
     <text x="222" y="148" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">0.45%</text>
     <circle cx="255" cy="144" r="4.5" fill="#89e051"/>
     <text x="267" y="148" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Shell</text>
     <text x="400" y="148" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">24 kB</text>
-    <text x="453" y="148" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">0.30%</text>
+    <text x="453" y="148" fill="#6e7681" font-family="monospace" font-size="10.5" text-anchor="end">0.25%</text>
 </svg>
