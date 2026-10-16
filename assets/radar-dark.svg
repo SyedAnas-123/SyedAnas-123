@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 400" width="400">
+  <rect x="2" y="2" width="416" height="396" rx="10" fill="#0d1117" stroke="#262c36" stroke-width="1.2"/>
+  <text x="210" y="34" fill="#e6edf3" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">Skill Radar</text>
+  <polygon points="210.0,186.2 234.9,200.6 234.9,229.4 210.0,243.8 185.1,229.4 185.1,200.6" fill="none" stroke="#21262d" stroke-width="1"/>
+<polygon points="210.0,157.5 259.8,186.2 259.8,243.8 210.0,272.5 160.2,243.8 160.2,186.2" fill="none" stroke="#21262d" stroke-width="1"/>
+<polygon points="210.0,128.8 284.7,171.9 284.7,258.1 210.0,301.2 135.3,258.1 135.3,171.9" fill="none" stroke="#21262d" stroke-width="1"/>
+<polygon points="210.0,100.0 309.6,157.5 309.6,272.5 210.0,330.0 110.4,272.5 110.4,157.5" fill="none" stroke="#21262d" stroke-width="1"/>
+
+  <line x1="210" y1="215" x2="210.0" y2="100.0" stroke="#21262d" stroke-width="1"/>
+<line x1="210" y1="215" x2="309.6" y2="157.5" stroke="#21262d" stroke-width="1"/>
+<line x1="210" y1="215" x2="309.6" y2="272.5" stroke="#21262d" stroke-width="1"/>
+<line x1="210" y1="215" x2="210.0" y2="330.0" stroke="#21262d" stroke-width="1"/>
+<line x1="210" y1="215" x2="110.4" y2="272.5" stroke="#21262d" stroke-width="1"/>
+<line x1="210" y1="215" x2="110.4" y2="157.5" stroke="#21262d" stroke-width="1"/>
+
+  <polygon points="210.0,105.8 301.6,162.1 295.6,264.4 210.0,318.5 122.4,265.6 122.4,164.4" fill="#aa9bef" fill-opacity="0.22" stroke="#3fb950" stroke-width="2"/>
+  <circle cx="210.0" cy="105.8" r="3.5" fill="#3fb950"/>
+<circle cx="301.6" cy="162.1" r="3.5" fill="#3fb950"/>
+<circle cx="295.6" cy="264.4" r="3.5" fill="#3fb950"/>
+<circle cx="210.0" cy="318.5" r="3.5" fill="#3fb950"/>
+<circle cx="122.4" cy="265.6" r="3.5" fill="#3fb950"/>
+<circle cx="122.4" cy="164.4" r="3.5" fill="#3fb950"/>
+
+  <text x="210.0" y="80.0" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="middle">Agentic AI & RAG</text>
+<text x="210.0" y="92.0" fill="#aa9bef" font-family="monospace" font-size="9" text-anchor="middle">95%</text>
+<text x="332.1" y="147.5" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="start">LLM Workflows</text>
+<text x="332.1" y="159.5" fill="#aa9bef" font-family="monospace" font-size="9" text-anchor="start">92%</text>
+<text x="332.1" y="282.5" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="start">MLOps & Docker</text>
+<text x="332.1" y="294.5" fill="#aa9bef" font-family="monospace" font-size="9" text-anchor="start">86%</text>
+<text x="210.0" y="350.0" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="middle">Backend APIs</text>
+<text x="210.0" y="362.0" fill="#aa9bef" font-family="monospace" font-size="9" text-anchor="middle">90%</text>
+<text x="87.9" y="282.5" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="end">AI Research (GANs)</text>
+<text x="87.9" y="294.5" fill="#aa9bef" font-family="monospace" font-size="9" text-anchor="end">88%</text>
+<text x="87.9" y="147.5" fill="#8b949e" font-family="monospace" font-size="10" text-anchor="end">Computer Vision</text>
+<text x="87.9" y="159.5" fill="#aa9bef" font-family="monospace" font-size="9" text-anchor="end">88%</text>
+
+</svg>
